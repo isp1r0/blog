@@ -40,10 +40,10 @@
     "moment": "^2.8.3",
     "pipe-iterators": "^1.0.0",
     "readable-stream": "^1.0.32",
-    "rss": "^0.2.1",
+    "rss": "^1.0.0",
     "subarg": "^1.0.0",
     "through2": "^0.6.2",
-    "wildglob": "0.0.1",
+    "wildglob": "0.1.1",
     "xtend": "^4.0.0"
   },
   "private": true
